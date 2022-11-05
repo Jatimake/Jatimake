@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Jatimake
-- 👀 I’m interested in doing some c++ and https
+- 👀 I’m interested in doing some c++ and htos
 - 🌱 I’m currently learning c++
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
